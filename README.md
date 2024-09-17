@@ -18,6 +18,10 @@ The app is a work in progress, and here’s what’s currently on the plate:
 
 Looking to up your cold mailing game? Look no further! This tool is designed for cold mailing with the power to schedule emails to multiple recipients at different times. It’s your new best friend for sending out those outreach emails like a pro. 🥂📧
 
+## Important Note on Passkey
+
+When entering the password for the sender's email, **please use an "App Password"** instead of your regular Gmail password. This is a special password generated specifically for applications and services that need access to your Gmail account. You can generate an App Password in your Google Account settings under "Security" -> "App passwords."
+
 ## Dependencies
 
 To get this app up and running, you'll need the following Python packages:
@@ -98,6 +102,7 @@ If you’ve got a knack for fixing bugs or just want to help make this app less 
 
 Feel free to use, modify, and share this code. Just remember, with great power comes great responsibility! 🦸‍♂️
 
+---
 
 Thanks for checking out our project. Happy emailing! 🚀
 
